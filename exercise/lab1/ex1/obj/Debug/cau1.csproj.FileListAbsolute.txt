@@ -1,0 +1,10 @@
+C:\Users\tphuy\source\repos\cau1\cau1\bin\Debug\cau1.exe.config
+C:\Users\tphuy\source\repos\cau1\cau1\bin\Debug\cau1.exe
+C:\Users\tphuy\source\repos\cau1\cau1\bin\Debug\cau1.pdb
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.csproj.AssemblyReference.cache
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.Form1.resources
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.Properties.Resources.resources
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.csproj.GenerateResource.cache
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.csproj.CoreCompileInputs.cache
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.exe
+C:\Users\tphuy\source\repos\cau1\cau1\obj\Debug\cau1.pdb

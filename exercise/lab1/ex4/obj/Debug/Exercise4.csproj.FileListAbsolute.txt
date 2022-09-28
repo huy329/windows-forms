@@ -1,0 +1,32 @@
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.Form1.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Exercise4\obj\Debug\Exercise4.pdb
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\bin\Debug\Exercise4.exe.config
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\bin\Debug\Exercise4.exe
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\bin\Debug\Exercise4.pdb
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.csproj.SuggestedBindingRedirects.cache
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.Form1.resources
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.csproj.GenerateResource.cache
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.exe
+D:\Công Nghệ Phần Mềm\LAP1_C#\Exercise4\obj\Debug\Exercise4.pdb
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\bin\Debug\Exercise4.exe.config
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\bin\Debug\Exercise4.exe
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\bin\Debug\Exercise4.pdb
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.Form1.resources
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.Properties.Resources.resources
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.csproj.GenerateResource.cache
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.exe
+C:\Users\tphuy\OneDrive\Desktop\desktop c#\Lab1\520H0537_Lab01_Exam04\obj\Debug\Exercise4.pdb

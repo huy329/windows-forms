@@ -1,0 +1,36 @@
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.deps.json
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.dll
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.pdb
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.csproj.AssemblyReference.cache
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.AssemblyInfoInputs.cache
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.AssemblyInfo.cs
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.dll
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\refint\StudentTest.dll
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.pdb
+D:\Công Nghệ Phần Mềm\TDT_CNPM\520H0516_TranLeGiaBao_Lab9\Lab09\csharp-code\StudentTestProject\StudentTest\obj\Debug\net6.0\ref\StudentTest.dll
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.deps.json
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.dll
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.pdb
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.AssemblyInfo.cs
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.dll
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\refint\StudentTest.dll
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.pdb
+C:\Users\admin\Downloads\520H0516_LAB9-main\StudentTestProject\StudentTest\obj\Debug\net6.0\ref\StudentTest.dll
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.deps.json
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.dll
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\bin\Debug\net6.0\StudentTest.pdb
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.AssemblyInfo.cs
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.dll
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\refint\StudentTest.dll
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\StudentTest.pdb
+C:\Users\admin\Downloads\520H0537\StudentTestProject\StudentTest\obj\Debug\net6.0\ref\StudentTest.dll
